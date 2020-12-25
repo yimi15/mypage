@@ -2,23 +2,21 @@
 <html>
 <head>
     <meta charset="utf-8"></meta>
-	<title>Mypage</title>
-	<style type="text/css">
-	.title{font-weight:bold;font-size:26px;margin-left:150px}
-	.content{padding-left:20px;padding-top:10px;padding-bottom:10px;font-size:20px;margin-left:150px;margin-right:150px}
-	</style>
+    <title>Mypage</title>
+    <style type="text/css">
+    .title{font-weight:bold;font-size:26px;margin-left:150px}
+    .content{padding-left:20px;padding-top:10px;padding-bottom:10px;font-size:20px;margin-left:150px;margin-right:150px}
+    </style>
 </head>
 <body>
-	<div class="title">申請人</div>
-	<div class="content">王苡嫣</div>
-	<div class="title">個人簡介</div>
-	<div class="content">
-	彭彭老師您好，我是王苡嫣，目前待業中，個性正直、活潑，做事負責任。
-	我畢業於觀光系，從在學期間於餐廳打工，畢業後在便利商店工作，我一直做著服務業相關工作，
-	心中始終都有想要轉行業的想法。有空的時候，我會在網路上看看教學，偶然發現「彭彭的線上教學」網站。
-	</div>
-	<div class="title">為什麼想成為工程師？</div>
-	<div class="content">
+    <div class="title">申請人</div>
+    <div class="content">王苡嫣</div>
+    <div class="title">個人簡介</div>
+    <div class="content">彭彭老師您好，我是王苡嫣，目前待業中，個性正直、活潑，做事負責任。我畢業於觀光系，從在學期間於餐廳打工，
+	    畢業後在便利商店工作，我一直做著服務業相關工作，心中始終都有想要轉行業的想法。有空的時候，我會在網路上看看教學，偶然發現「彭彭的線上教學」網站。
+    </div>
+    <div class="title">為什麼想成為工程師？</div>
+    <div class="content">
 	大學時就讀觀光系，畢業後非常不好找工作，只能做著自己不是很喜歡的工作，讓我覺得很不甘心。
 	在朋友建議及我思考過後，我決定往前端工程師方向前進。我還記的小時候還有yahoo部落格的時候，
 	那時候我除了內建的版型之外，還會使用其他玩家提供的css語法，那時候就只覺得很好玩、有趣，很有成就感。我想那就是初衷吧！
